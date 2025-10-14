@@ -1,6 +1,6 @@
 <!-- 👇 Анимированный баннер -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=👋+Привет!+Я+Юрий+Давыдов;💡+Промт-инженер+и+AI-специалист;🚀+Создаю+и+внедряю+AI-решения+в+бизнес;🤖+Развиваю+навыки+интеграции+и+оптимизации+LLM" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=00C2FF&height=200&section=header&text=Юрий%20Давыдов%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Prompt%20Engineer%20%7C%20AI%20Specialist" alt="banner" />
 </p>
 
 <h1 align="center">🧠 Привет, я Юрий Давыдов</h1>
